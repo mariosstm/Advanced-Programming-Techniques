@@ -10,3 +10,7 @@ public class Application {
 			SpringApplication.run(Application.class, args);
 	}
 }
+
+//This is a comment for presentation purposes only
+//We edit the java Application file from Github
+//We can also do it from our selected environment
